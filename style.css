@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+htmml, body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --purple:  hsl(248, 32%, 49%);
+    --green: hsl(154, 59%, 51%);
+    --red: hsl(0, 100%, 74%) ;
+
+    --fs: 16px;
+}

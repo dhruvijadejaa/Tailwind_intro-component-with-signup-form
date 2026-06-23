@@ -1,0 +1,29 @@
+{
+  "name": "intro-component-with-signup-form-master",
+  "version": "1.0.0",
+  "description": "![Design preview for the Intro component with sign up form coding challenge](preview.jpg)",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhruvijadejaa/Tailwind_intro-component-with-signup-form.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/dhruvijadejaa/Tailwind_intro-component-with-signup-form/issues"
+  },
+  "homepage": "https://github.com/dhruvijadejaa/Tailwind_intro-component-with-signup-form#readme",
+  "dependencies": {
+    "@tailwindcss/vite": "^4.3.1",
+    "tailwindcss": "^4.3.1",
+    "vite": "^8.0.16"
+  }
+}
